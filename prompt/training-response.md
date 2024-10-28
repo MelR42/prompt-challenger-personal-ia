@@ -1,13 +1,13 @@
 # Variáveis
 
-{{Biotipo}}  = Endomorfo
-{{Periodicidade}} = 3 dias
-{{Tipo de Exercício}} = HIIT e Cardio
-{{Idade}} = 25
-{{Nível de Condicionamento Físico}} = Iniciante
-{{Meta}} = Perda de Peso
-{{Plano Nutricional}} 
-{{Tempo de Treino Disponível}} = Tempo Limitado
+{{Biotipo}} = Endomorfo  
+{{Periodicidade}} = 3 dias  
+{{Tipo de Exercício}} = HIIT e Cardio  
+{{Idade}} = 25  
+{{Nível de Condicionamento Físico}} = Iniciante  
+{{Meta}} = Perda de Peso  
+{{Plano Nutricional}}   
+{{Tempo de Treino Disponível}} = Tempo Limitado  
 
 # Resposta de IA para prompt de treino
 
